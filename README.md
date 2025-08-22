@@ -46,17 +46,6 @@ Goal: Build a strong understanding of **NumPy arrays, operations, and real-world
 - Convert image into grayscale/dark mode by manipulating pixel values  
 - Save and display transformed images  
 
----
-
-## ✅ Progress Tracker
-| Phase | Topics | Status |
-|-------|--------|--------|
-| 1 | Foundation & Array Creation | ⬜ |
-| 2 | Array Operations | ⬜ |
-| 3 | Real-World Data Practice | ⬜ |
-| 4 | Image as Matrix (Dark Mode Conversion) | ⬜ |
-
----
 
 ## 🎯 Goals
 - Complete **NumPy in focused sprints**.  
